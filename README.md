@@ -47,3 +47,5 @@ https://www.okta.com/video/oktane17-appdev-what-the-heck-is-openidconnect/
 [Apigee/Okta Integration: Resource Owner / Password Grant Flow in Action](https://www.youtube.com/watch?v=OKCySDIwZ1E)
 
 [Introduction to OAuth 2.0](https://docs.apigee.com/api-platform/security/oauth/oauth-introduction)
+
+[SP and IDP Initiated OAuth](https://blogs.oracle.com/dcarru/sp-vs-idp-initiated-sso)
